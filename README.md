@@ -1,4 +1,5 @@
 # day2
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+date_day2
+>>>>>>> a5258ef8b57a45d661a9d5ba78ef165757d832cc
